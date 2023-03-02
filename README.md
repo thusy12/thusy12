@@ -6,5 +6,5 @@
 
 🔭 I’m currently an undergraduate specialized in Computer Engineering at University of Sri Jayewardenepura, SriLanka
 🤔 Exploring new technologies and learning new hacks
-📫 Reach me at 12thusy1999@gmail.com
+- 📫 Reach me at 12thusy1999@gmail.com
 
